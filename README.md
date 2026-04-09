@@ -51,6 +51,7 @@ It is organized around the stack you typically need in real projects:
 
 - **[Langfuse](https://github.com/langfuse/langfuse)** - Open-source LLM engineering and observability platform for tracing, prompts, and evaluation.
 - **[Prometheus](https://prometheus.io/)** - Metrics collection and monitoring for infrastructure and AI services.
+- **[Tokenr](https://tokenr.co)** — LLM cost attribution and FinOps for multi-agent systems
 
 ### Metadata, quality, and governance
 
